@@ -1,0 +1,56 @@
+{
+  "config_hashes": {
+    "data.json": "441c0ef2cb05723ccf0d8848650b75d129bfc4a24990b16e390cff3a2a407fb7",
+    "experiment.json": "56b142dd89125238867f63d657eb7c8c41986e761e9629d5641e2101e64b814b",
+    "snapshot_manifest.json": "cac11ea3456b46d1705c3ee7bd0e990b91476afeade80abced86ad971da4b832"
+  },
+  "foundation_hash": "0a767f06c93a3c07943c7a08d90ef3033f5d8fdf6c9f9d4e781b3927873aae7f",
+  "manifest_version": "1.0.0",
+  "prompt_bundle_hash": "f73bd50a24da32a957b107194025804b072c3c661babf77106c7d091f1bc3316",
+  "prompt_hashes": {
+    "bear_researcher": "38921daf0a3720056f2f6a6c3f6d3acc0a4671e930881836bac4b7b5dfa0c59a",
+    "bull_researcher": "958c167d4312fbfb15fc29940d3cfd5236ba49a5f3d1fa2a89baf2575c632c58",
+    "fundamentals_analyst": "8c329e303279e8553ec0c9615f5f5d1397ac52a039f60e3d12e7e72586589027",
+    "market_analyst": "b41fe61fa8be15e478174b0d4821acfce44e3a6996b2704f362cc7ca37590a3f",
+    "news_analyst": "1074c5b37ee5d13fc1f217b346d8f15dd5be39df0be34d4bcd3b8d1b9dfacac8",
+    "portfolio_manager": "718675411a1bbae973caa9cd9aaf92b64d73aa5468edc03cd728fc8941d5187a",
+    "research_manager": "843c5e36751dd48039fc6396941a5d945c2c4ae9a963e5f589b942b3afb92576",
+    "risk_aggressive": "94812bae2597e4cbbd3e2f52e1205d0dbfc4db4d50e144a6b4eb8cd51dda598f",
+    "risk_conservative": "c20973afd6e6d7b45c1c29568f52a94d4715571676fa8026ed7b179f01b9b82c",
+    "risk_neutral": "86b30c015b18a82a611f8f114b75c32870c3534a3d8c31b557213f065b1aec33",
+    "sentiment_analyst": "e74217239d50a024e03399effab0b796362ec4f3d6247f081815ec4646d4175e",
+    "trader": "746fcc775aa4422a98e35f69966ecd3d729c1aaf72a869993acc82db583ec1c0"
+  },
+  "prompt_versions": {
+    "bear_researcher": "1.0.0",
+    "bull_researcher": "1.0.0",
+    "fundamentals_analyst": "1.0.0",
+    "market_analyst": "1.0.0",
+    "news_analyst": "1.0.0",
+    "portfolio_manager": "1.0.0",
+    "research_manager": "1.0.0",
+    "risk_aggressive": "1.0.0",
+    "risk_conservative": "1.0.0",
+    "risk_neutral": "1.0.0",
+    "sentiment_analyst": "1.0.0",
+    "trader": "1.0.0"
+  },
+  "schema_hashes": {
+    "AnalystReport": "40078744b637282f2dbe92438f4783142a4d060e0277a049c46ec333190672c7",
+    "FailedRunArtifact": "7d6ee560e993a1efe8852981997d14da2f6def3532474b4163326d71b6452ddd",
+    "FinalDecision": "739e7ba27de4c0324166753558b20e96472cfa1e2ee72d417808a74483239058",
+    "MarketSnapshot": "fafbe85ada90b633c55685cbd68f310f55eea6b7103e1e044072f2e6c8c35b45",
+    "ResearchArgument": "fa1621c87a489cc6b36840183a968bbbbef71e0b4335478c29ced2ff247dcf48",
+    "ResearchManagerReport": "3fe735c786aa461db3ecec9d60b09669a5aab1da6b91df2d0b87aa54e109cfd0",
+    "RiskReport": "183201bb4f86890adc61b4749d563fa8196563d676e86aad6eb9ccd2572c2472",
+    "RunArtifact": "e701478ade14c097e11515611a7ed7b25db953d590bda24f7c4314deb64120e2",
+    "RunContext": "5237ad353a0d64c7cfdfdfa6486ef59797f6873e26ef243c94c24d37d409e6b9",
+    "RunMetrics": "39a1e5a31b9e73df4426867f83e5b63369d9ad7b4c990db0da3df5286a3248c8",
+    "RunResult": "a7791caa6720f64493184401a9258f9edfaf0afc068c0b1523f1a79e8b8df7b1",
+    "StageMetric": "5d187975d0b9c9a43d7330f7b141092d7e0ccdb8cc2a0358a170af912c610789",
+    "TraderPlan": "4d15166ece1ed196fd1337f924a105563c7adfdf27f6e7c90d6c4f716b7428cd",
+    "WorkflowCheckpoint": "30f3a01e5f38c48dcbe2a2d43a387d050e7b65fcefd8ce410ca72664dc60e56b",
+    "WorkflowState": "51f1f0c3eb053d4a25c9f7bf7870d7688210d6033c2bdf9656c7b57389eda88c"
+  },
+  "workflow_hash": "1d2f6f78a9238507271c96e5165e7b1f2d08395e7382f5abdc7a22a5ffe5426d"
+}

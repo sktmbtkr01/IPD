@@ -1,0 +1,32 @@
+{
+  "experiment_id": "aapl-input-pilot-v1",
+  "schema_version": "1.1.0",
+  "config_hash": "441c0ef2cb05723ccf0d8848650b75d129bfc4a24990b16e390cff3a2a407fb7",
+  "ticker": "AAPL",
+  "snapshots": [
+    {
+      "decision_date": "2026-07-14",
+      "snapshot_hash": "a2cda138e8b3d4d3ce495e193ca3061c650bef4d727d0400eb0e419ca708b187",
+      "price_bars": 90,
+      "news_articles": 76,
+      "macro_observations": 5,
+      "fundamental_facts": 8
+    },
+    {
+      "decision_date": "2026-07-29",
+      "snapshot_hash": "17404d3265a9321d25c0964f4947a1f1aec51b1e4d221f8dbd74e106b4a5bea9",
+      "price_bars": 90,
+      "news_articles": 58,
+      "macro_observations": 5,
+      "fundamental_facts": 8
+    },
+    {
+      "decision_date": "2026-08-18",
+      "snapshot_hash": "be2ec238b4bde2ca437331b830f25d609a37ebcad68f413c06a1d06424e07325",
+      "price_bars": 90,
+      "news_articles": 49,
+      "macro_observations": 5,
+      "fundamental_facts": 8
+    }
+  ]
+}

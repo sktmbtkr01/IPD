@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0.0",
+  "decision_timezone": "America/New_York",
+  "decision_time": "16:00:00",
+  "market_lookback_trading_days": 90,
+  "indicator_set_version": "1.0.0",
+  "required_sources": {
+    "prices": true,
+    "news": false,
+    "macro": false,
+    "fundamentals": false,
+    "prediction_markets": false
+  }
+}
+

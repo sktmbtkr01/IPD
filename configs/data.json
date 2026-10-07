@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.1.0",
+  "decision_timezone": "America/New_York",
+  "decision_time": "16:00:00",
+  "market_lookback_trading_days": 90,
+  "news_lookback_days": 7,
+  "news_min_match_score": 10.0,
+  "sentiment_bullish_threshold": 0.15,
+  "sentiment_bearish_threshold": -0.15,
+  "indicator_set_version": "1.0.0",
+  "macro_series": ["DFF", "CPIAUCSL", "UNRATE", "DGS10", "T10Y2Y"],
+  "required_sources": {
+    "prices": true,
+    "news": true,
+    "macro": true,
+    "fundamentals": true,
+    "prediction_markets": false
+  }
+}

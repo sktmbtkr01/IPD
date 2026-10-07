@@ -1,0 +1,16 @@
+{
+  "experiment_id": "aapl-input-pilot-v1",
+  "ticker": "AAPL",
+  "date_sampling": {
+    "method": "uniform_random_weekdays",
+    "seed": 42,
+    "window_start": "2026-07-09",
+    "window_end": "2026-10-06",
+    "note": "Three-date pilot retained after complete multi-source validation; two incomplete quota-limited dates were discarded."
+  },
+  "decision_dates": [
+    "2026-07-14",
+    "2026-07-29",
+    "2026-08-18"
+  ]
+}
